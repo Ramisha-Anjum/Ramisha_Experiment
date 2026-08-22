@@ -1,3 +1,5 @@
+# Optimization-Based Haptic Feedback Synthesis in Human-Multi-Robot Systems 
+
 # Installation
 1. clone the repository in `~/ros2_ws/src`
    ```shell
